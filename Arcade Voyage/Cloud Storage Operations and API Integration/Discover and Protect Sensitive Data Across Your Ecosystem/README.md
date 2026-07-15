@@ -20,7 +20,7 @@
 <li>Open <b>Cloud Shell</b> and run the following commands:</li>
 
 ```bash
-curl -LO <URL>
+curl -LO https://raw.githubusercontent.com/deep-sengupta/GCP-Labs-2026/refs/heads/master/Arcade%20Voyage/Cloud%20Storage%20Operations%20and%20API%20Integration/Discover%20and%20Protect%20Sensitive%20Data%20Across%20Your%20Ecosystem/GSP522.sh
 
 sudo chmod +x GSP522.sh
 
@@ -66,7 +66,7 @@ sudo chmod +x GSP522.sh
 ```bash
 rm deidentify-model-response-challenge-lab.ipynb
 
-curl -LO <URL>
+curl -LO https://raw.githubusercontent.com/deep-sengupta/GCP-Labs-2026/refs/heads/master/Arcade%20Voyage/Cloud%20Storage%20Operations%20and%20API%20Integration/Discover%20and%20Protect%20Sensitive%20Data%20Across%20Your%20Ecosystem/deidentify-model-response-challenge-lab.ipynb
 ```
 
 <li>Wait until the Jupyter kernel status changes to <b>Idle</b>.</li>

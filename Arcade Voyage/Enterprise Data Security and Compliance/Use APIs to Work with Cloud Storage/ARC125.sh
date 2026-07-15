@@ -71,7 +71,7 @@ success "Bucket $DEVSHELL_PROJECT_ID-bucket-2 created successfully"
 # Step 5: Download the image file
 echo
 step "Step 5 • Downloading world.jpeg..."
-curl -s -LO 
+curl -s -LO https://github.com/deep-sengupta/GCP-Labs-2026/blob/master/Arcade%20Voyage/Enterprise%20Data%20Security%20and%20Compliance/Use%20APIs%20to%20Work%20with%20Cloud%20Storage/world.jpeg
 success "Image downloaded successfully"
 
 # Step 6: Upload image file to bucket1

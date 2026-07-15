@@ -33,7 +33,7 @@ Navigate to:
 <li>Open <b>Cloud Shell</b> and run the provided setup commands:</li>
 
 ```bash
-curl -LO <LAB_SCRIPT_URL>
+curl -LO https://raw.githubusercontent.com/deep-sengupta/GCP-Labs-2026/refs/heads/master/Arcade%20Voyage/Cloud%20Storage%20Operations%20and%20API%20Integration/Enabling%20Sensitive%20Data%20Protection%20Discovery%20for%20BigQuery/GSP1282.sh
 
 sudo chmod +x *.sh
 

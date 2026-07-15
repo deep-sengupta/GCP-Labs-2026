@@ -21,7 +21,7 @@ gcloud auth login
 <li>Run the following commands in <b>Cloud Shell</b>:</li>
 
 ```bash
-curl -LO <SCRIPT_URL>
+curl -LO https://raw.githubusercontent.com/deep-sengupta/GCP-Labs-2026/refs/heads/master/Arcade%20Voyage/Enterprise%20Data%20Security%20and%20Compliance/Use%20APIs%20to%20Work%20with%20Cloud%20Storage/ARC125.sh
 sudo chmod +x ARC125.sh
 ./ARC125.sh
 ```

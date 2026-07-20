@@ -14,7 +14,7 @@ gcloud auth login
   <li>Run the following commands:</li>
 
 ```bash
-curl -LO <URL>
+curl -LO https://raw.githubusercontent.com/deep-sengupta/GCP-Labs-2026/refs/heads/master/Arcade%20Safe%20Spaces/Creating%20Digital%20Safe%20Spaces%20with%20Security%20Command%20Center/Mitigate%20Threats%20and%20Vulnerabilities%20with%20Security%20Command%20Center/GSP382.sh
 sudo chmod +x GSP382.sh
 ./GSP382.sh
 ```

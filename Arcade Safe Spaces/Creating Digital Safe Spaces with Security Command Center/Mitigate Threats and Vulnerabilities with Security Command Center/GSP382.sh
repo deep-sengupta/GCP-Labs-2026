@@ -119,7 +119,7 @@ step "Disabling uniform bucket-level access"
 gsutil uniformbucketlevelaccess set off "gs://scc-export-bucket-$DEVSHELL_PROJECT_ID"
 
 step "Downloading findings.jsonl"
-curl -LO 
+curl -LO https://raw.githubusercontent.com/deep-sengupta/GCP-Labs-2026/refs/heads/master/Arcade%20Safe%20Spaces/Creating%20Digital%20Safe%20Spaces%20with%20Security%20Command%20Center/Mitigate%20Threats%20and%20Vulnerabilities%20with%20Security%20Command%20Center/findings.jsonl
 
 step "Uploading findings.jsonl to the bucket"
 gsutil cp findings.jsonl "gs://scc-export-bucket-$DEVSHELL_PROJECT_ID"

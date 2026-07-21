@@ -14,7 +14,7 @@ export ZONE=<LAB_REGION>
   <li>Run the following commands:</li>
 
 ```bash
-curl -LO <URL>
+curl -LO https://raw.githubusercontent.com/deep-sengupta/GCP-Labs-2026/refs/heads/master/Arcade%20Safe%20Spaces/Engineering%20Safe%20Spaces%20and%20Smart%20Savings%20in%20GKE/Managing%20a%20GKE%20Multi-tenant%20Cluster%20with%20Namespaces/GSP766.sh
 sudo chmod +x GSP766.sh
 ./GSP766.sh
 ```

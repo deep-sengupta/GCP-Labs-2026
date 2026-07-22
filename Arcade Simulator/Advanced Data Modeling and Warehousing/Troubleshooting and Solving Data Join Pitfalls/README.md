@@ -8,7 +8,7 @@
   <li>Run the following commands:</li>
 
 ```bash
-wget -O GSP412.sh ""
+wget -O GSP412.sh "https://raw.githubusercontent.com/deep-sengupta/GCP-Labs-2026/refs/heads/master/Arcade%20Simulator/Advanced%20Data%20Modeling%20and%20Warehousing/Troubleshooting%20and%20Solving%20Data%20Join%20Pitfalls/GSP412.sh"
 sed -i 's/\r$//' GSP412.sh
 chmod +x GSP412.sh
 bash GSP412.sh

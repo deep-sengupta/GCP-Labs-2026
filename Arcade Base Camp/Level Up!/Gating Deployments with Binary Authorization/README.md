@@ -9,7 +9,7 @@
   <li>Run the following commands:</li>
 
 ```bash
-wget -O GSP1183.sh ""
+wget -O GSP1183.sh "https://raw.githubusercontent.com/deep-sengupta/GCP-Labs-2026/refs/heads/master/Arcade%20Base%20Camp/Level%20Up!/Gating%20Deployments%20with%20Binary%20Authorization/GSP1183.sh"
 sed -i 's/\r$//' GSP1183.sh
 chmod +x GSP1183.sh
 bash GSP1183.sh

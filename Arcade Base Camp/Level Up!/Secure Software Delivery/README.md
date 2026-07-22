@@ -14,7 +14,7 @@ gcloud auth login
   <li>Run the following commands:</li>
 
 ```bash
-curl -LO <URL>
+curl -LO https://raw.githubusercontent.com/deep-sengupta/GCP-Labs-2026/refs/heads/master/Arcade%20Base%20Camp/Level%20Up!/Secure%20Software%20Delivery/GSP521.sh
 sudo chmod +x GSP521.sh
 ./GSP521.sh
 ```

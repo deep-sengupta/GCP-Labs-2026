@@ -14,7 +14,7 @@ gcloud auth login
   <li>Run the following commands:</li>
 
 ```bash
-curl -LO
+curl -LO https://raw.githubusercontent.com/deep-sengupta/GCP-Labs-2026/refs/heads/master/Arcade%20Base%20Camp/Level%20Up!/Secure%20Builds%20with%20Cloud%20Build/GSP1184.sh
 sudo chmod +x GSP1184.sh
 ./GSP1184.sh
 ```

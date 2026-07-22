@@ -14,7 +14,7 @@ export ZONE=
   <li>Run the following commands:</li>
 
 ```bash
-wget -O GSP750.sh ""
+wget -O GSP750.sh "https://raw.githubusercontent.com/deep-sengupta/GCP-Labs-2026/refs/heads/master/Arcade%20Base%20Camp/Welcome%20to%20Base%20Camp/Infrastructure%20as%20Code%20with%20Terraform/GSP750.sh"
 sed -i 's/\r$//' GSP750.sh
 chmod +x GSP750.sh
 bash GSP750.sh

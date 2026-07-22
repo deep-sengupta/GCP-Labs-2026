@@ -8,7 +8,7 @@
   <li>Run the following commands:</li>
 
 ```bash
-curl -LO <SCRIPT_URL>
+curl -LO https://raw.githubusercontent.com/deep-sengupta/GCP-Labs-2026/refs/heads/master/Arcade%20Base%20Camp/Welcome%20to%20Base%20Camp/Build%20Infrastructure%20with%20Terraform%20on%20Google%20Cloud/GSP345.sh
 sudo chmod +x GSP345.sh
 ./GSP345.sh
 ```

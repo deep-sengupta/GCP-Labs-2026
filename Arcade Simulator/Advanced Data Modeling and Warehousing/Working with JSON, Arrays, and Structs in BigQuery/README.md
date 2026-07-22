@@ -8,7 +8,7 @@
   <li>Run the following commands:</li>
 
 ```bash
-curl -LO <URL>
+curl -LO https://raw.githubusercontent.com/deep-sengupta/GCP-Labs-2026/refs/heads/master/Arcade%20Simulator/Advanced%20Data%20Modeling%20and%20Warehousing/Working%20with%20JSON%2C%20Arrays%2C%20and%20Structs%20in%20BigQuery/GSP416.sh
 sudo chmod +x GSP416.sh
 ./GSP416.sh
 ```

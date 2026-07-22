@@ -8,7 +8,7 @@
   <li>Run the following commands:</li>
 
 ```bash
-wget -O GSP414.sh ""
+wget -O GSP414.sh "https://raw.githubusercontent.com/deep-sengupta/GCP-Labs-2026/refs/heads/master/Arcade%20Simulator/Advanced%20Data%20Modeling%20and%20Warehousing/Creating%20Date-Partitioned%20Tables%20in%20BigQuery/GSP414.sh"
 sed -i 's/\r$//' GSP414.sh
 chmod +x GSP414.sh
 bash GSP414.sh

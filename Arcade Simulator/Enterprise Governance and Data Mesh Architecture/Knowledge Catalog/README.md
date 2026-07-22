@@ -8,7 +8,7 @@
   <li>Run the following commands:</li>
 
 ```bash
-curl -LO <URL>
+curl -LO https://raw.githubusercontent.com/deep-sengupta/GCP-Labs-2026/refs/heads/master/Arcade%20Simulator/Enterprise%20Governance%20and%20Data%20Mesh%20Architecture/Knowledge%20Catalog/GSP1143.sh
 sudo chmod +x GSP1143.sh
 ./GSP1143.sh
 ```

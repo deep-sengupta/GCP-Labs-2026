@@ -10,7 +10,7 @@
   <li>Run the following commands:</li>
 
 ```bash
-curl -LO
+curl -LO https://raw.githubusercontent.com/deep-sengupta/GCP-Labs-2026/refs/heads/master/Arcade%20Simulator/Enterprise%20Governance%20and%20Data%20Mesh%20Architecture/Implementing%20Security%20in%20Knowledge%20Catalog/GSP1157.sh
 sudo chmod +x GSP1157.sh
 ./GSP1157.sh
 ```

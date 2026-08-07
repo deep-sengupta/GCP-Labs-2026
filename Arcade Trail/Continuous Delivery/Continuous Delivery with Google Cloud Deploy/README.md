@@ -155,7 +155,7 @@ git push google master || true
 git checkout -b production
 rm -f cloudbuild.yaml
 
-curl -LO github link
+curl -LO raw.githubusercontent.com/deep-sengupta/GCP-Labs-2026/refs/heads/master/Arcade%20Trail/Continuous%20Delivery/Continuous%20Delivery%20with%20Google%20Cloud%20Deploy/env-cloudbuild.yaml
 mv -f env-cloudbuild.yaml cloudbuild.yaml
 
 sed -i "s/REGION-/$REGION/g" cloudbuild.yaml
@@ -178,7 +178,7 @@ git push google master || true
 
 rm -f cloudbuild.yaml
 
-curl -LO github link
+curl -LO raw.githubusercontent.com/deep-sengupta/GCP-Labs-2026/refs/heads/master/Arcade%20Trail/Continuous%20Delivery/Continuous%20Delivery%20with%20Google%20Cloud%20Deploy/app-cloudbuild.yaml
 mv -f app-cloudbuild.yaml cloudbuild.yaml
 
 sed -i "s/REGION/$REGION/g" cloudbuild.yaml
